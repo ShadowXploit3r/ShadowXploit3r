@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Cyber Warrior  
+# 👋 Hi, I’m Mohammed Danish  
 
-💻 **Aspiring SOC Analyst | Threat Hunter | Detection Engineer**  
+💻 **Aspiring SOC Analyst**  
 🔍 Passionate about threat detection, incident response, and building real-world security solutions.  
 📍 Goal: To be in the **top 1% SOC Analysts** with hands-on skills in SIEM, EDR, MDR, XDR, Threat Intel & Vulnerability Management.  
 
@@ -17,14 +17,12 @@
 ## 🛠️ Skills & Tools  
 
 ### **SOC & Threat Detection**
-- **SIEM Tools**: Splunk, Microsoft Sentinel, ELK Stack, QRadar  
-- **EDR Platforms**: CrowdStrike Falcon, Microsoft Defender ATP  
-- **Detection Rules**: Sigma, KQL, SPL  
+- **SIEM Tools**: Splunk, Microsoft Sentinel, ELK Stack, Wazuh 
 - **Incident Response**: Alert triage, log analysis, threat hunting
 
 ### **Security Foundations**
 - Networking (OSI/TCP/IP, DNS, HTTP/S, SMTP, FTP)  
-- Operating Systems: Linux (Bash), Windows (Powershell)  
+- Operating Systems: Linux (Bash), Windows (Powershell(Basics)  
 - Packet Analysis (Wireshark, tcpdump)
 
 ### **Vulnerability Management**
@@ -62,24 +60,21 @@
 
 ## 📜 Certifications & Learning Paths
 - **TryHackMe SOC Level 1 Path**  
-- **LetsDefend SOC Analyst Labs**  
-- **MITRE ATT&CK Defender (MAD) - Threat Intelligence** *(Planned)*  
+- **LetsDefend SOC Analyst Labs**
+- **TryHackMe Cybersecurity 101 Path**
+- **TryHackMe Pre Security Path**
+- **TCM Security Practical Help Desk**  
+ 
 
 ---
 
-## 📊 GitHub Stats & Badges  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)  
 
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)  
-- 🌐 [Portfolio Website](https://YourPortfolioSite.com)  
-- ✉️ Email: youremail@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammedanish/)  
+- ✉️ Email: iccsbsc17@gmail.com 
 
 ---
 
