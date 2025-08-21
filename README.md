@@ -16,9 +16,9 @@
 ## 🛠️ Skills & Programming  
 
 **Programming Basics:**  
-- ![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white) C (basics)  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python (basics)  
-- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) Bash (basics)  
+- ![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white) C   
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python   
+- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) Bash
 - ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=flat&logo=powershell&logoColor=white) PowerShell (basics)  
 
 **Cybersecurity Skills in Progress:**  
